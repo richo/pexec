@@ -1,0 +1,10 @@
+This will eventually be a command running application
+
+My goals are simple:
+
+* minimal bloat
+* skins easily (most likely gtk, maybe wx)
+* Weighted commands
+* completion
+* ease of use
+* fast
